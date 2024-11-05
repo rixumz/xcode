@@ -23,10 +23,11 @@ chmod +x ccminer start.sh && cd && cd && cd && nano ../usr/etc/bash.bashrc
 paste this code:
 cd ccminer/&&./start.sh
 
-edit wallet and pool
+edit wallet and pool:
 nano ccminer/config.json
 
 manually run miner:
 ~/ccminer/start.sh
 
 finally disable batt opt and agguire wake lock
+happy mining
