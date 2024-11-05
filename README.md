@@ -15,10 +15,7 @@ Install package requirement:
   yes | pkg install libjansson wget nano 
 
 Setup ccminer:
-  mkdir ccminer && cd ccminer
-  wget https://raw.githubusercontent.com/rixumz/xcode/refs/heads/main/config.json
-  wget https://raw.githubusercontent.com/rixumz/xcode/refs/heads/main/ccminer
-  wget https://raw.githubusercontent.com/rixumz/xcode/refs/heads/main/start.sh 
+  mkdir ccminer && cd ccminer && wget https://raw.githubusercontent.com/rixumz/xcode/refs/heads/main/config.json && wget https://raw.githubusercontent.com/rixumz/xcode/refs/heads/main/ccminer && wget https://raw.githubusercontent.com/rixumz/xcode/refs/heads/main/start.sh 
 
 Scrypt auto miner on open:
   chmod +x ccminer start.sh && cd && cd && cd && nano ../usr/etc/bash.bashrc
