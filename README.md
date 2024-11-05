@@ -3,7 +3,7 @@ Termux + Ccminer for Cloud Phone
 --------------------------------
 
 Download and Install Termux GitHub Version via browser:
-https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
+  https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 
 Fix repository:
   termux-change-repo
@@ -32,5 +32,5 @@ edit wallet and pool:
 manually run miner:
   ~/ccminer/start.sh
 
-finally disable batt opt and agguire wake lock
+finally disable batt opt and acquire wake lock
   happy mining
