@@ -32,7 +32,7 @@ manually run miner:
 finally disable batt opt and acquire wake lock
   happy mining
 
-=======================
+
 Setting ccminer STB ubuntu-debian
 =======================
 apt-get update
