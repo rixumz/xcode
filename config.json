@@ -4,7 +4,7 @@
             "name": "AP-LUCKPOOL",
             "url": "stratum+tcp://ap.luckpool.net:3957",
             "timeout": 180,
-            "disabled": 0
+            "disabled": 1
         },
             {
             "name": "NA-LUCKPOOL",
